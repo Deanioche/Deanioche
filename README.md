@@ -1,4 +1,3 @@
-### Hi there 👋
 ![InCaseOfFire](https://user-images.githubusercontent.com/66513003/108597798-384d9d80-73ce-11eb-9791-ec37e53d1447.png)
 
 <!--
