@@ -25,10 +25,10 @@ https://kr.1lib.limited/g/Loiane%20Groner
 
 
 
-![image](https://user-images.githubusercontent.com/66513003/117436221-b5b69200-af69-11eb-9125-58fb52d97924.png
+![image](https://user-images.githubusercontent.com/66513003/117478027-a3544c80-af99-11eb-8118-40cdd77a963f.png
 
 
-<img src="https://user-images.githubusercontent.com/66513003/117436221-b5b69200-af69-11eb-9125-58fb52d97924.png
+<img src="https://user-images.githubusercontent.com/66513003/117478027-a3544c80-af99-11eb-8118-40cdd77a963f.png
 " width="400">
 
 **Soksurim/Soksurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
