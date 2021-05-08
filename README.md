@@ -1,5 +1,5 @@
 
-## Github Stats  
+## Github Stats 🌱
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs" align="left" style="width: 100%" />
@@ -17,19 +17,23 @@
 </div>
 
 <!--
-JS 관련 
+## 메모
+
+JS 관련 도서
 https://kr.1lib.limited/g/Loiane%20Groner
 
-![Soksurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&hide=contribs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 이미지 복사용############################################################################################################
 
-![image](https://user-images.githubusercontent.com/66513003/117478027-a3544c80-af99-11eb-8118-40cdd77a963f.png
+![image](https://user-images.githubusercontent.com/66513003/117539825-4f07a600-b047-11eb-9d5f-ec65ce0dfd35.png
 
-
-<img src="https://user-images.githubusercontent.com/66513003/117478027-a3544c80-af99-11eb-8118-40cdd77a963f.png
+<img src="https://user-images.githubusercontent.com/66513003/117539825-4f07a600-b047-11eb-9d5f-ec65ce0dfd35.png
 " width="400">
+
+#############################################################################################################################
+
+
 
 **Soksurim/Soksurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
