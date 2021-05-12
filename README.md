@@ -19,10 +19,9 @@
 <!--
 
 ## 이미지 복사용############################################################################################################
+![image](https://user-images.githubusercontent.com/66513003/117996471-22bc9400-b37d-11eb-89ea-9414429f8414.png
 
-![image](https://user-images.githubusercontent.com/66513003/117574389-c86ec980-b117-11eb-8e57-3071487b1432.png
-
-<img src="https://user-images.githubusercontent.com/66513003/117574389-c86ec980-b117-11eb-8e57-3071487b1432.png
+<img src="https://user-images.githubusercontent.com/66513003/117996471-22bc9400-b37d-11eb-89ea-9414429f8414.png
 " width="400">
 
 ![image](https://user-images.githubusercontent.com/66513003/117683807-62557580-b1ef-11eb-91bd-837155e1f3df.png)
