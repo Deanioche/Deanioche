@@ -5,7 +5,8 @@
 <img src="https://user-images.githubusercontent.com/66513003/121140197-88187d80-c874-11eb-8140-381ee22c7e1d.png
 " width="400">
 
-![image](https://user-images.githubusercontent.com/66513003/117683807-62557580-b1ef-11eb-91bd-837155e1f3df.png)
+<img src="
+" width="400">
 
 #############################################################################################################################
 -->
