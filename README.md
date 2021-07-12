@@ -18,13 +18,17 @@
 -->
 
 ## Github Stats 🌱
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs" align="left" style="width: 100%" />
+<table style="overflow: hidden;"><tr style="overflow: hidden;"><td valign="top" width="50%" style="overflow: hidden;">
 
-</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs"
+    align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true"
+    align="left" style="width: 100%" />
 
 </td></tr></table>  
 
