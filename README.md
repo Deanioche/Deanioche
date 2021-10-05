@@ -19,26 +19,18 @@
 
 ## Github Stats 🌱
 
-<table style="overflow: hidden;"><tr style="overflow: hidden;"><td valign="top" width="50%" style="overflow: hidden;">
+<table ><tr><td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs"
-    align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs" style="width: 100%" />
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true"
-    align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true" style="width: 100%" />
 
-</td></tr></table>  
-
-
-<div align=center>
-
-</div>
+</td></tr></table> 
 
 <!--
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoksurim&count_bg=%235094F5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
