@@ -15,32 +15,31 @@
 " width="150">
 
 #############################################################################################################################
+
 -->
 
-## Github Stats 🌱
+## **Github Stats** [🌱](https://urakasumi.tistory.com/) 
 
-<table ><tr><td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs" style="width: 100%" />
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true" style="width: 100%" />
-
-</td></tr></table> 
+![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs)
+![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
 
 <!--
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoksurim&count_bg=%235094F5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoksurim&count_bg=%235094F5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+<table><tr><td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&hide_border=true&hide=contribs" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true" style="width: 100%" />
+</td></tr></table> 
 
 ## 메모
 
 JS 관련 도서
 https://kr.1lib.limited/g/Loiane%20Groner
-
 
 **Soksurim/Soksurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
