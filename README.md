@@ -24,6 +24,8 @@
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
+![image](https://user-images.githubusercontent.com/66513003/141648047-956734ba-a489-44bd-8d66-f8b63bcdcfd2.png)
+
 
 <!--
 
