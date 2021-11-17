@@ -24,10 +24,13 @@
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
-
+![image](https://user-images.githubusercontent.com/66513003/142242066-f2491928-e470-4807-8b62-75d4bd972fda.png)
 
 
 <!--
+몰리
+![Moli](https://user-images.githubusercontent.com/66513003/142241667-7ae2553e-be04-41d1-9c58-0e4aa5d62e04.gif)
+
 빼빼로
 ![image](https://user-images.githubusercontent.com/66513003/141667362-34edb6a6-07a0-4d57-900b-fc1e9b114fef.png)
 
