@@ -24,7 +24,7 @@
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
-<img src="https://user-images.githubusercontent.com/66513003/142242066-f2491928-e470-4807-8b62-75d4bd972fda.png" style="width: 100px;" />
+[<img src="https://user-images.githubusercontent.com/66513003/142242066-f2491928-e470-4807-8b62-75d4bd972fda.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
 
 
 <!--
