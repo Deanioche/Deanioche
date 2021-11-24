@@ -23,7 +23,7 @@
 ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&theme=buefy&hide_border=true&hide=contribs)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
-![dohyulee's 42 stats](https://badge42.herokuapp.com/api/stats/dohyulee?privacyEmail=true&privacyName=true&darkmode=true)
+[![dohyulee's 42 stats](https://badge42.herokuapp.com/api/stats/dohyulee?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
 [<img src="https://user-images.githubusercontent.com/66513003/142242066-f2491928-e470-4807-8b62-75d4bd972fda.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
