@@ -20,7 +20,7 @@
 
 ## **Github Stats** [🌱](https://urakasumi.tistory.com/)
 
-![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&theme=buefy&hide_border=true&hide=contribs)
+![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&theme=buefy&hide_border=true)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
 [![dohyulee's 42 stats](https://badge42.herokuapp.com/api/stats/dohyulee?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)
