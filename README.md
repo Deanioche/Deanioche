@@ -1,7 +1,6 @@
 <!--
 ## 이미지 복사용############################################################################################################
 
-
 <img src="
 " width="400">
 
@@ -27,6 +26,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
 [<img src="https://user-images.githubusercontent.com/66513003/143447979-81f452b4-dd4b-4bfa-a2a9-161808d97d78.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
+
+<a href="https://www.buymeacoffee.com/soksurim"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Beer if you love me&emoji=🍺&slug=soksurim&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 <!--
 몰리
