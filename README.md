@@ -28,9 +28,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
 [<img src="https://user-images.githubusercontent.com/66513003/143447979-81f452b4-dd4b-4bfa-a2a9-161808d97d78.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
 
+<!--
 <a href="https://www.buymeacoffee.com/soksurim"><img src="https://img.buymeacoffee.com/button-api/?text=Plz, Buy me a beer 🥺&emoji=🍺&slug=soksurim&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-<!--
 몰리
 ![Moli](https://user-images.githubusercontent.com/66513003/142241667-7ae2553e-be04-41d1-9c58-0e4aa5d62e04.gif)
 
