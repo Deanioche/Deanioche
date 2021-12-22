@@ -23,12 +23,12 @@
 ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&theme=buefy&hide_border=true)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
 
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=surimi)](https://solved.ac/surimi)
+
 [![dohyulee's 42 stats](https://badge42.herokuapp.com/api/stats/dohyulee?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
-[<img src="https://user-images.githubusercontent.com/66513003/143447979-81f452b4-dd4b-4bfa-a2a9-161808d97d78.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
-
 <!--
+[<img src="https://user-images.githubusercontent.com/66513003/143447979-81f452b4-dd4b-4bfa-a2a9-161808d97d78.png" style="width: 100px;" />](https://urakasumi.tistory.com/)
 <a href="https://www.buymeacoffee.com/soksurim"><img src="https://img.buymeacoffee.com/button-api/?text=Plz, Buy me a beer 🥺&emoji=🍺&slug=soksurim&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 몰리
