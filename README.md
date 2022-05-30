@@ -20,8 +20,8 @@
 
 ## **Github Stats** [🌱](https://urakasumi.tistory.com/)
 
-![git-stat-langs](https://github-readme-stats.vercel.app/api?username=Soksurim&count_private=true&show_icons=true&theme=buefy&hide_border=true)
-![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Soksurim&layout=compact&hide_border=true)
+![git-stat-langs](https://github-readme-stats.vercel.app/api?username=praesto20&count_private=true&show_icons=true&theme=buefy&hide_border=true)
+![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=praesto20&layout=compact&hide_border=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=surimi)](https://solved.ac/surimi)
 
 
