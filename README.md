@@ -18,7 +18,7 @@
 
 -->
 
-## **Github Stats** [🌱](https://urakasumi.tistory.com/)
+## **Github Stats** [🍥](https://urakasumi.tistory.com/)
 
 ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=urakasumi&count_private=true&show_icons=true&theme=buefy&hide_border=true)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=urakasumi&layout=compact&hide_border=true)
